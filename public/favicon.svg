@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SolarCool Rural">
+  <rect width="64" height="64" rx="14" fill="#244B3B" />
+  <circle cx="32" cy="23" r="8.5" fill="#E9A94B" />
+  <g stroke="#E9A94B" stroke-width="2.6" stroke-linecap="round">
+    <path d="M32 6v6M32 34v6M15 23h6M43 23h6M20 11l4.2 4.2M39.8 30.8 44 35M44 11l-4.2 4.2M24.2 30.8 20 35" />
+  </g>
+  <path d="M12 50h40" stroke="#A8BE9A" stroke-width="3" stroke-linecap="round" />
+  <path d="M18 50v-7l14-8 14 8v7" fill="none" stroke="#F7F5EE" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+</svg>
